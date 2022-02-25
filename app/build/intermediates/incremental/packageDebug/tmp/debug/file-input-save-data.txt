@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Thu Feb 24 12:29:27 MSK 2022
+0.base=C\:\\Users\\Admin\\AndroidStudioProjects\\MajesticReader\\clean-architecture-android-materials\\starter\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out
+0.path=classes.dex
+1.baseType=DIRECTORY
+count=2
+1.path=classes.dex
+0.baseType=DIRECTORY
+1.set=DEX
+1.base=C\:\\Users\\Admin\\AndroidStudioProjects\\MajesticReader\\clean-architecture-android-materials\\starter\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
+0.set=DEX
